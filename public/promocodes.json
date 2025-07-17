@@ -1,0 +1,5 @@
+[
+  { "code": "PROMO1", "discount": "10%" },
+  { "code": "PROMO2", "discount": "15%" },
+  { "code": "PROMO3", "discount": "20%" }
+]
